@@ -1,0 +1,16 @@
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.csprojResolveAssemblyReference.cache
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\bin\Debug\RCA455_Conexao.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\bin\Debug\RCA455_Conexao.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\bin\Debug\Entidades.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\bin\Debug\Entidades.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\bin\Debug\RCA455_Conexao.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\bin\Debug\RCA455_Conexao.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\bin\Debug\Entidades.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\bin\Debug\Entidades.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RCA455_Conexao\obj\Debug\RCA455_Conexao.pdb

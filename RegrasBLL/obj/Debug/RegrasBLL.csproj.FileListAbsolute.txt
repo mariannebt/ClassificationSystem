@@ -1,0 +1,20 @@
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\RegrasBLL.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\RegrasBLL.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\Entidades.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\RCA455_Conexao.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\Entidades.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\bin\Debug\RCA455_Conexao.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.csprojResolveAssemblyReference.cache
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\RegrasBLL.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\RegrasBLL.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\Entidades.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\RCA455_Conexao.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\Entidades.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\bin\Debug\RCA455_Conexao.pdb
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.dll
+C:\Users\USER\Desktop\Marianne\TRabalho\Projeto_RCA455\RegrasBLL\obj\Debug\RegrasBLL.pdb

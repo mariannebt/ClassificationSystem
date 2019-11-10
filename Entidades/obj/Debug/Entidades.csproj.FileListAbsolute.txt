@@ -1,0 +1,5 @@
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\Entidades\bin\Debug\Entidades.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\Entidades\bin\Debug\Entidades.pdb
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\Entidades\obj\Debug\Entidades.dll
+C:\Users\marianne.teixeira\Desktop\Demandas\Demanda RCA455\Projeto_RCA455\Entidades\obj\Debug\Entidades.pdb

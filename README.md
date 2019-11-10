@@ -5,5 +5,5 @@ To develop the application, my project coordinator chose ASP.NET WebForms, and t
  Back-end: C#;
  Front-end: HMTL, CSS, Javascript, JQuery, Bootstrap.
 
-This application aims to insert, update and delete rules and rankings.
+This application aims to insert, update and delete rules and classification.
 My job was to talk to the client to understand their daily work and, with that focus, create an application where they will no longer have to use Excel to perform their activities.
